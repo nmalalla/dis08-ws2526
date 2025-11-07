@@ -1,7 +1,7 @@
 Basic Formatting  
 grundsätzlich ähnelt Markdown in Grundzügen der Formatierung mit HTML
 
-###3. Stufe Headings sehen z.B. so aus
+###Stufe 3 Headings sehen z.B. so aus  
 mit der Anzahl der # wird das Heading kleiner
 
 Paragraphs & line breaks
